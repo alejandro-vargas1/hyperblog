@@ -7,4 +7,6 @@ Hoy hablaremos de su vida y su increible historia.
 
 Alejandro estuvo aqui
 
+Master 1
+
 Esto es antes de hacer un reset --hard
